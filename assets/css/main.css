@@ -4108,3 +4108,7 @@ input, select, textarea {
 		}
 
 	}
+
+	.me {
+		border-radius: 50%;
+	  }
